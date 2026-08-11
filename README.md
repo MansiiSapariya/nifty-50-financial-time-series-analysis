@@ -549,8 +549,3 @@ Christ (Deemed to be University), Bangalore
 This repository is an academic project created for educational and research purposes.
 
 The analysis is not financial advice and should not be used as the sole basis for investment decisions.
-
-```
-
-I’d keep this repository **separate from your panel-regression project**. The two projects then show two different econometric capabilities on GitHub: this one demonstrates **time-series financial analysis and OLS diagnostics**, while the other demonstrates **panel-data econometrics and model selection**.
-```
